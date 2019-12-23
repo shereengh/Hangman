@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.bg {
+  background-image: url("https://img.freepik.com/free-photo/green-slate_1205-377.jpg?size=626&ext=jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dash {
+  width: 5%;
+  height: 5%;
+}
+.hang {
+  width: 30%;
+  height: 30%;
+}
+.win {
+  width: 15%;
+  height: 15%;
+}
+.let {
+  width: 8%;
+  height: 8%;
+}
